@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://bdaley.github.io',
-  base: '/dmd-3440-5440',
+  base: '/dmd-course-template',
   integrations: [
     starlight({
       title: 'My Docs',
